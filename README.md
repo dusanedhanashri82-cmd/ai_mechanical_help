@@ -1,1 +1,1 @@
-# ai_mechanical_help
+/ai_mechanical_help
